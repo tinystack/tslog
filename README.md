@@ -1,6 +1,10 @@
 # tslog
 Go logger Package
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/tinystack/tslog)](https://goreportcard.com/report/github.com/tinystack/tslog)
+![Go Version](https://img.shields.io/badge/go%20version-%3E=1.18-61CFDD.svg?style=flat-square)
+[![PkgGoDev](https://pkg.go.dev/badge/mod/github.com/tinystack/tslog)](https://pkg.go.dev/mod/github.com/tinystack/tslog)
+
 ## 安装
 
 go get -u github.com/tinystack/tslog
